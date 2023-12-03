@@ -6,7 +6,7 @@ function Nav() {
     return (
         <nav className="Nav">
             <ul>
-                <li><Link to={"/Dogs"}>Home</Link></li>
+                <li><Link to={"/DogsList"}>Home</Link></li>
             </ul>
         </nav>
     )
